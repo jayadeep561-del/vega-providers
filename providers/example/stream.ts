@@ -1,5 +1,5 @@
 import { Stream, ProviderContext } from "../types";
-export const getStream = async function ({
+export const getStream = async ({
 link,
 type,
 signal,
