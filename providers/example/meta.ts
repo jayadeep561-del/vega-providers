@@ -1,5 +1,5 @@
 import { Info, ProviderContext } from "../types";
-export const getMeta = async function ({
+export const getMeta = async ({
 link,
 providerContext,
 }: {
