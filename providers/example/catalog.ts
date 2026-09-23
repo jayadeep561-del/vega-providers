@@ -1,9 +1,8 @@
 export const catalog = [
-  { title: "Popular Movies", filter: "/category/popular-movies" },
-  { title: "Latest TV Shows", filter: "/category/latest-tv-shows" },
+{ title: "Netflix Test Movies", filter: "/category/netflix-test-movies" },
+{ title: "Netflix Test Shows", filter: "/category/netflix-test-shows" },
 ];
-
 export const genres = [
-  { title: "Action", filter: "/genre/action" },
-  { title: "Comedy", filter: "/genre/comedy" },
+{ title: "Action", filter: "/genre/action" },
+{ title: "Comedy", filter: "/genre/comedy" },
 ];
